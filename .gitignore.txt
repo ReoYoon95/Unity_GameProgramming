@@ -1,0 +1,21 @@
+코드 스니펫
+# 하위 모든 유니티 프로젝트 폴더 내 임시/캐시 파일 제외
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Bb]uild/
+**/[Bb]uilds/
+**/[Ll]ogs/
+**/[Uu]ser[Ss]ettings/
+**/[Mm]emoryCaptures/
+
+# Visual Studio / VS Code 자동 생성 파일 제외
+*.csproj
+*.unityproj
+*.sln
+.vs/
+.vscode/
+
+# OS 자동 생성 파일
+.DS_Store
+Thumbs.db
